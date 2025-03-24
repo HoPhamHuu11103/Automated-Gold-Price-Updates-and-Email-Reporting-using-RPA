@@ -1,5 +1,7 @@
 # Automated-Gold-Price-Updates-and-Email-Reporting-using-RPA
 Automated Gold Price Updates and Email Reporting using RPA
+- 🚀 **[Hồ Phạm Hữu ](https://github.com/HoPhamHuu11103)** - *Lead Developer*
+
 # Introduction
 This project utilizes Robotic Process Automation (RPA) technology with UiPath Studio to automatically update gold prices by region (Hanoi, Ho Chi Minh City, etc.) and send email reports to customers. This solution helps minimize errors caused by manual operations, saves time, and enhances decision-making efficiency for both individual investors and businesses.
 
